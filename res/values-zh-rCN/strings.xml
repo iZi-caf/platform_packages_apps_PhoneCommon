@@ -126,6 +126,7 @@
   <!-- In-call screen: message displayed in an error dialog -->
   <string name="incall_error_missing_voicemail_number">语音信箱号码未知。</string>
   <!-- In-call screen: call failure reason (call ended due to low battery) -->
+  <string name="callFailed_low_battery">电量过低</string>
   <!-- Choice in the ringtone picker.  If chosen, there will be silence instead of a ringtone played. -->
   <string name="ringtone_silent">无</string>
   <!-- If there is ever a ringtone set for some setting, but that ringtone can no longer be resolved, this is shown instead.  For example, if the ringtone was on a SD card and it had been removed, this would be shown for ringtones on that SD card. -->

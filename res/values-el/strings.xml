@@ -21,6 +21,7 @@
   <!-- String describing the Delete/Backspace ImageButton.
          Used by AccessibilityService to announce the purpose of the button.
     -->
+  <string name="description_delete_button">Σβήσιμο</string>
   <!--  String describing the button used to add a plus (+) symbol to the dialpad -->
   <string name="description_image_button_plus">συν</string>
   <!-- String describing the Voicemail ImageButton.
@@ -125,8 +126,10 @@
   <!-- In-call screen: message displayed in an error dialog -->
   <string name="incall_error_missing_voicemail_number">Άγνωστος αριθμός αυτόματου τηλεφωνητή</string>
   <!-- In-call screen: call failure reason (call ended due to low battery) -->
+  <string name="callFailed_low_battery">Χαμηλή μπαταρία</string>
   <!-- Choice in the ringtone picker.  If chosen, there will be silence instead of a ringtone played. -->
   <string name="ringtone_silent">Κανένα</string>
   <!-- If there is ever a ringtone set for some setting, but that ringtone can no longer be resolved, this is shown instead.  For example, if the ringtone was on a SD card and it had been removed, this would be shown for ringtones on that SD card. -->
   <string name="ringtone_unknown">Άγνωστος ήχος κλήσης</string>
+  <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
 </resources>
